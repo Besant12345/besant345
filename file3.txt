@@ -5,9 +5,12 @@ fourth line
 fifth line
 sixth line
 <<<<<<< HEAD
+<<<<<<< HEAD
 seventh line
 eight line
 ninth line
 tenth line
+=======
+>>>>>>> parent of 0c88740... added incomplete line
 =======
 >>>>>>> parent of 0c88740... added incomplete line
